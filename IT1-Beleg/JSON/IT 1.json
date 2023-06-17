@@ -1,0 +1,14 @@
+{
+  "IT1": [
+    {"a":"Welche Authentifizierung bietet HTTP", "l":["Digest Access Authentication","OTP","OAuth","2-Faktor-Authentifizierung"]},
+    {"a":"Welches Transportprotokoll eignet sich für zeitkritische Übertragungen", "l":["UDP","TCP","HTTP","Fast Retransmit"]},
+    {"a":"Wichtige TCP Eigenschaft", "l":["Fehlerfreie Datenübertragung","Verbindungsloses Protokoll","Benötigt wenig Ressourcen","Falsche Reihenfolge der Pakete"]},
+    {"a":"Was bedeutet HTTP", "l":["Hypertext Transfer Protocol","Ist eine Automarke","HTML Transfer Protocol","Internet Protocol"]},
+    {"a":"Wozu CSS", "l":["Styling","Grundgerüst","Logik","Datentransfer"]},
+    {"a":"Wozu HTML", "l":["Grundgerüst","Styling","Logik","Datenbank API"]},
+    {"a":"Gute JavaScript Alternativen", "l":["Typescript","HTML","CSS","Pascal"]},
+    {"a":"Wesentlicher Unterschied HTTP und HTTPS", "l":["HTTPS ist verschlüsselt","HTTP ist schneller","2-Faktor-Authentifizierung","Gibt keinen"]},
+    {"a":"Verschlüsselung von HTTPS", "l":["TLS/SSL","Elliptische Kurve","RSA","AES"]},
+    {"a":"Was ist DynDNS", "l":["Domain für dynamische IP","Verschlüsselung","Das gleiche wie DNS","Ein Socket"]}
+  ]
+}

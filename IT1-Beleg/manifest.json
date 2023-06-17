@@ -1,0 +1,18 @@
+{
+  "id": "/",
+  "dir": "ltr",
+  "lang": "de-DE",
+  "name": "PWA",
+  "short_name": "PWA",
+  "start_url": "./index.html",
+  "description": "Lernapp als PWA für IT-1",
+  "background_color": "white",
+  "icon": {
+    "src": "IMAGE/apple-touch-icon.png",
+    "sizes": "180x180",
+    "type": "image/png"
+  },
+  "theme_color": "#f4f4f4",
+  "display": "standalone",
+  "orientation": "portrait-primary"
+}
